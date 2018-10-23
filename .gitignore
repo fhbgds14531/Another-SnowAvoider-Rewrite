@@ -1,4 +1,8 @@
 *.class
+/lib
+/native
+/.settings
+.project
 
 # BlueJ files
 *.ctxt
